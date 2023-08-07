@@ -1,0 +1,9 @@
+./vscode
+db.sqlite3
+test.txt
+jobsearching/__pycache__/
+jobwebsite/__pycache__/
+jobwebsite/migrations/__pycache__/
+jobwebsite/templatetags/__pycache__/
+signup/__pycache__/
+signup/migrations/
